@@ -6,7 +6,7 @@
 
 ### Installation ###
 
-* `git clone https://github.com/bestmomo/larangular.git projectname`
+* `git@github.com:mygithub1216/Angualr_mydreamapp.git projectname`
 * `cd projectname`
 * `composer install`
 * `php artisan key:generate`
